@@ -1,0 +1,3 @@
+1;Matheus;Obesidade Grau 1;1.75;100.0;32.6530612244898
+2;Marcos;Obesidade Grau 3;1.65;130.0;47.75022956841139
+3;Ronaldo;Sobrepeso;1.25;40.0;25.6
